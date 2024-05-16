@@ -102,6 +102,14 @@ endmodule
 ![fsm vlis](https://github.com/nithin2134/VLSI-LAB-EXP-5/assets/160302970/7feac606-9a27-4948-88f5-4d1bb111e601)
 
 
+
+
+
+
+
+
+
+
 **RESULT:**
 
 Thus the simulation and synthesis of finite state machine using vivado 2023.2 was successfully executed and verified.
